@@ -1,0 +1,105 @@
+
+header {
+  background-color: black;
+}
+
+#logo {
+  height: 25%;
+  width: 25%;
+  margin-left: -1.5em;
+}
+
+body {
+  background-color: #ab0101;
+  font-family: 'Glegoo', serif;
+}
+
+#headerInfo {
+  display: inline-block;
+  float: right;
+  margin-top: 4em;
+  margin-right: 1em;
+  color: #9d9d9d;
+  font-family: 'Glegoo', serif;
+}
+
+a {
+  color: #9d9d9d;
+}
+
+a:hover {
+  color:  #ab0101;
+}
+.nav-btns:hover {
+  color: #ab0101 !important;
+}
+
+#myCarousel {
+  margin-top: -1.4em;
+}
+
+.img-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  font-family: 'Black Ops One', cursive;
+  color: black;
+}
+
+h4 {
+  font-family: 'Wallpoet', cursive;
+  color: black;
+  font-size: 1.7em;
+}
+
+#homeContent {
+  padding-bottom: 1em;
+}
+
+#invLink {
+  color: #9d9d9d;
+}
+
+#invLink:hover {
+  color: black;
+}
+
+footer {
+  background-color: black;
+}
+
+#footerContent {
+  font-family: 'Glegoo', serif;
+  font-size: 1.5em;
+  color: #9d9d9d;
+  padding-top: 1em;
+}
+
+h2 {
+  font-family: 'Black Ops One', cursive;
+  color: #ab0101;
+}
+
+#footerLinks {
+  list-style-type: none;
+  margin-left: -2em;
+}
+
+.gallery {
+  text-align: center;
+}
+
+.gPic {
+  height: 16em !important;
+}
+
+#aboutFont {
+  color: black;
+  font-weight: 600;
+}
+
+#aboutInfo {
+  padding-bottom: 2em;
+}
